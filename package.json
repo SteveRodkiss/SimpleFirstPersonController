@@ -1,0 +1,21 @@
+{
+  "name": "com.srcoder.simplefirstpersoncontroller",
+  "version": "1.0.0",
+  "displayName": "SimpleFirstPersonController",
+  "description": "This is a simple First Person Controller with some customizable properties so you can get started writing code quickly!",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "srcoder",
+    "email": "none",
+    "url": "none"
+  },
+  "samples": [
+    {
+      "displayName": "Prefab",
+      "description": "Import this to have access to the prefab to use in your game",
+      "path": "Runtime/Prefabs"
+    }
+  ],
+  "type": "sample"
+}
